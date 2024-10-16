@@ -1,6 +1,6 @@
 # 💫 About Me:
 My name is Amir Yasin,
-I am an aspiring Python developer with a focus on Django and Flask web development, and a solid background in computer science. Currently studying computer science at St. Mary's University, I have a strong interest in creating dynamic and user-friendly web applications.<br>In addition to web development, I also have skills in data analysis. I can work with complex data to find<br>useful insights, which can help in making informed decisions. My web development and data analysis<br>skills are separate, but I am committed to doing my best in both areas.<br>I am eager to apply and grow my skills in both web development and data analysis, whether it’s<br>building reliable web applications or analyzing data to provide valuable insights.<br>
+I am an aspiring Python developer with a focus on Django and Flask web development, and a solid background in computer science. Currently studying computer science at St. Mary's University, I have a strong interest in creating dynamic and user-friendly web applications.<br>In addition to web development, I also have skills in data analysis. I can work with complex data to find useful insights, which can help in making informed decisions. My web development and data analysis<br>skills are separate, but I am committed to doing my best in both areas.<br>I am eager to apply and grow my skills in both web development and data analysis, whether it’s<br>building reliable web applications or analyzing data to provide valuable insights.<br>
 
 
 ## 🌐 Socials:
